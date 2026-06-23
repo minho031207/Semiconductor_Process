@@ -22,5 +22,11 @@
 
 ### Key Visuals
 - High-temperature degradation trends (SS & Ioff vs. Temperature)
+ ![Degradation Trends](온도상승에따른성능변화.png)
 - Optimization design map (Ion/Ioff vs. SS)
+ ![Degradation Trends](베이스라인1.png)
+ ![Degradation Trends](베이스라인2.png)
 - Process sequence and final doping profile comparison
+ ![Degradation Trends](최종1.png)
+ ![Degradation Trends](최종2.png)
+ ![Degradation Trends](단면.png)

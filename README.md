@@ -70,13 +70,6 @@
 | Optimization Variables | Halo Dose, Halo Energy, LDD Dose, LDD Energy, P-well Concentration |
 | Evaluation Metrics | Ion, Ioff, Ion/Ioff Ratio, Subthreshold Swing |
 
-### Team Members
-
-- 송민호 — Team Leader
-- 홍성헌 — 발표
-- 조용준 — 발표
-- 이동화 — PPT제작
-
 ---
 
 # 2. My Contribution
